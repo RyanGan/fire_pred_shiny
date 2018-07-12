@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+grid_poly
+
+*.csv
+
+*.Rproj
